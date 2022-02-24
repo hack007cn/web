@@ -1,0 +1,2 @@
+ console.log("\n %c WEB世界 %c 富瑞阿得 \n","color: #fadfa3; background: #030307; padding:5px 0;","background: #fadfa3; padding:5px 0;");
+ console.log("\n %c QQ %c 1599912073 \n","color: #fadfa3; background: #030307; padding:5px 0;","background: #fadfa3; padding:5px 0;");
